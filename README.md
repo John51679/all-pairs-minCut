@@ -1,4 +1,4 @@
-# all-pairs-minCut
+# All Pairs minimum cut
 This project was created as part of "Algorithm implementation technologies" subject in Computer Engineering &amp; Informatics Department (CEID) of University of Patras. It involves the solution of the "All pairs minimum cut" using the BOOST library.
 
 The aim of this project was to implement an algorithm for solving the problem of "All pairs minimum cut" which algorithm is based on the following paper 
